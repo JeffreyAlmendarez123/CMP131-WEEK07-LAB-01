@@ -27,7 +27,7 @@ elif weight<=10:
      rate= 3.70
 else:
      rate= 4.80
-
+#Finding our rate and the price
 charges=(distance / 500) * rate
 print(f"Rate: ${rate:.2f}")
 print(f"Shipping charged: ${charges:.2f}" )  
