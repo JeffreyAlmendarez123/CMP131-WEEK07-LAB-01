@@ -1,3 +1,11 @@
+#Jeffrey Alemndarez
+#cmp131
+#week7
+#LAB1
+#SHIpping_charges.py
+#10/9/26
+
+
 weight=float(input("Enter the weight for the package (kg):"))
 while weight <= 0 or weight > 20:
     print("Weight must be more than 0 and no more than 20 kg.")

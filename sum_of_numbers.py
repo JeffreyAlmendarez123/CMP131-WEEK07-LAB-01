@@ -1,3 +1,12 @@
+#Jeffrey Alemndarez
+#cmp131
+#week7
+#LAB1
+#sum_of_numbers.py
+#10/9/26
+
+
+
 number=int(input("Enter the value of a positive interger:"))
 while number<1:
     print("Please enter a positive value.")
